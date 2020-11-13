@@ -1,2 +1,2 @@
 # Reinforcement-Learning
-Repo for RL Workshop for JML
+Repo for RL Workshop for Jakarta Machine Learning(JML)
